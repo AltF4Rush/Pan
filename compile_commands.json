@@ -1,6 +1,0 @@
-[
-{
-  "directory": "/home/kaido/Projects/Pan",
-  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-I", "/home/kaido/.xmake/packages/f/ftxui/v5.0.0/3fcb6b37d83343809b8bf5c2fb7c9f01/include", "-DNDEBUG", "-o", "build/.objs/Pan/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
-  "file": "src/main.cpp"
-}]
